@@ -1,0 +1,4 @@
+# 📝 Publications 
+
+- **Dongxiu Liu**$^\*$, Haoyi Niu$^\*$, Zhihao Wang, Jinliang Zheng, Yinan Zheng, Zhonghong Ou, Jianming Hu, Jianxiong Li, Xianyuan Zhan. [Efficient Robotic Policy Learning via Latent Space Backward Planning](https://www.arxiv.org/abs/2505.06861). In *International Conference on Machine Learning* (**ICML 2025**). [[Code](https://github.com/Dstate/LBP)][[Website](https://lbp-authors.github.io/)]
+- Jinliang Zheng$^\*$, Jianxiong Li$^\*$, **Dongxiu Liu**$^\*$, Yinan Zheng, Zhihao Wang, Zhonghong Ou, Yu Liu, Jingjing Liu, Ya-Qin Zhang, Xianyuan Zhan. [Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105). In *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR 2025**). [[Code](https://github.com/2toinf/UniAct)][[Website](https://2toinf.github.io/UniAct/)]
