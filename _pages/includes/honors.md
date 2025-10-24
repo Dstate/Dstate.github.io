@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.10* 🏅 **Champion** at IROS AgiBot World Challenge 2025.
 - *2023.06* Outstanding Graduate of Beijing.
 - *2021.09* **Overall Top 0.1%** at CCF Certified Software Professional (CSP).
 - *2021.05* 🏅 **Gold Medal** at International Collegiate Programming Contest Asia Regional Contest (ICPC).
