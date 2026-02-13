@@ -1,3 +1,5 @@
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper [X-VLA](https://thu-air-dream.github.io/X-VLA/) has been accepted by ICLR 2026!
+- *2025.12*: &nbsp;🎉🎉 Our paper [UAGLNet](https://arxiv.org/abs/2512.12941) has been accepted by IEEE TGRS!
 - *2025.05*: &nbsp;🎉🎉 Our paper [LBP](https://lbp-authors.github.io/) has been accepted by ICML 2025!
 - *2025.02*: &nbsp;🎉🎉 Our paper [UniAct](https://2toinf.github.io/UniAct/) has been accepted by CVPR 2025!
