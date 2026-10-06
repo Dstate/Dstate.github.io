@@ -1,5 +1,4 @@
 # 👨🏻‍💻 About Me
-Hi! I am currently a master's student at School of Computer Science, Beijing University of Posts and Telecommunications, advised by [Prof. Zhonghong Ou](https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm). I received my bachelor’s degree from the same school in 2023. 
-In addition, I am working as a research intern at [AIR-DREAM Lab](https://air-dream.netlify.app/) of Institute for AI Industry Research (AIR), Tsinghua University, advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/).
+Hi! I am Dongxiu Liu, a co-founder of **Basal Intelligence**. Before that, I was a long-term research intern at the Institute for AI Industry Research (AIR), Tsinghua University, where I was fortunate to work closely with [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/). I received my bachelor’s and master’s degrees from Beijing University of Posts and Telecommunications.
 
-My research interest includes Robot Learning and Computer Vision. My long-term goal is to build generalist embodied agents in the physical world, with the ability to perform generalizable vision-language understanding, robust action execution, and reliable long-horizon planning.
+I focus on **robot learning**, with the long-term goal of building embodied agents that can understand and interact with the physical world, while generalizing across tasks and embodiments.
